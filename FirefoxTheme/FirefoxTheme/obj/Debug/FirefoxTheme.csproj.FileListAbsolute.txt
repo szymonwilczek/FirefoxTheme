@@ -1,0 +1,15 @@
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\bin\Debug\firefox-theme.pkgdef
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\bin\Debug\Firefox_logo,_2017.svg.png
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\bin\Debug\icon.svg.png
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\bin\Debug\theme-preview.gif
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\bin\Debug\FirefoxTheme.vsix
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\obj\Debug\FirefoxTheme.csproj.AssemblyReference.cache
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\obj\Debug\_EmptyResource.resources
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\obj\Debug\FirefoxTheme.csproj.GenerateResource.cache
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\obj\Debug\FirefoxTheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\obj\Debug\FirefoxTheme.csproj.CoreCompileInputs.cache
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\obj\Debug\FirefoxTheme.dll
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\obj\Debug\FirefoxTheme.pdb
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\obj\Debug\extension.vsixmanifest
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\obj\Debug\files.json
+C:\Users\szymo\Documents\GitHub\FirefoxTheme\FirefoxTheme\FirefoxTheme\obj\Debug\createTemplateManifests.cache
